@@ -8,3 +8,5 @@
 [![Github stats](https://supahfox-github-stats.vercel.app/api?username=SupahFox&show_icons=true&theme=dark&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://supahfox-github-stats.vercel.app/api/top-langs/?username=SupahFox&theme=dark&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Harlok's wakatime stats](https://supahfox-github-stats.vercel.app/api/wakatime?username=SupahFox&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
