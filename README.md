@@ -8,4 +8,4 @@
 
 [![Top Langs](https://supahfox-github-stats.vercel.app/api/top-langs/?username=SupahFox&theme=dark&layout=donut)](https://github.com/SupahFox/github-readme-stats)
 
-[![SupahFox's wakatime stats](https://supahfox-github-stats.vercel.app/api/wakatime?username=SupahFox&theme=dark&layout=compact)](https://github.com/SupahFox/github-readme-stats)
+[![SupahFox's wakatime stats](https://supahfox-github-stats.vercel.app/api/wakatime?username=supahfox&theme=dark&layout=compact)](https://github.com/SupahFox/github-readme-stats)
